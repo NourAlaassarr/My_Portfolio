@@ -34,15 +34,9 @@ header nav {
 }
 
 header nav .Logo {
-    color: white;
-    font-size: 30px;
-    font-weight: bolder;
     margin-top: 19px;
 }
 
-header nav .Logo span {
-    color: #e9204f;
-}
 
 header nav .navbarlinks {
     display: flex;
